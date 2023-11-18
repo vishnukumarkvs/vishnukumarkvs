@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack projects on AWS.**
 
-- 🌱 I’m currently learning **AWS Serverless, AWS CDK**
+- 🌱 I’m currently learning **Go and Rust** - The two best langs
 
 - 📝 I regularly write articles on [https://medium.com/@kvs-vishnu23](https://medium.com/@kvs-vishnu23)
 
