@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kvs Vishnu Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **Full Stack projects on AWS.**
+- 🔭 I’m currently working on **Candletower**, a website which provides technical analysis (candlestick patterns) on stocks - www.candletower.com
 
-- 🌱 I’m currently learning **Go and Rust** - The two best langs
+- 🌱 I’m currently learning **Go**. Developed [hcurl](https://github.com/vishnukumarkvs/hcurl) using Go and Cobra. Also writing a Book titled **Understanding Go Programming Language**
 
 - 📝 I regularly write articles on [https://medium.com/@kvs-vishnu23](https://medium.com/@kvs-vishnu23)
 
-- 💬 Ask me about **cloud.**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **kvsvishnukumar@gmail.com**
 
