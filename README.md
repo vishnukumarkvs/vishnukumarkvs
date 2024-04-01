@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kvs Vishnu Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **Candletower**, a website which provides technical analysis (candlestick patterns) on stocks - www.candletower.com
+- 🛠️ I am an Experienced Cloud Developer skilled in AWS, Go and full-stack development.
+
+- 🔭 Currently working on **Candletower**, a website which provides technical analysis (candlestick patterns) on stocks - www.candletower.com
 
 - 🌱 I’m currently learning **Go**. Developed [hcurl](https://github.com/vishnukumarkvs/hcurl) using Go and Cobra. Also writing a Book titled **Understanding Go Programming Language**
 
